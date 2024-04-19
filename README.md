@@ -42,11 +42,11 @@
 <br>
 <h4 align="center"> Connect with me</h4>
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/muhammed-rashid-t-7583a2289/">
+<a target="_blank" href="https://www.linkedin.com/in/hudhaifabinkhader/">
 <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a target="_blank" href="#">
+<a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=hudhaifabinkhader@gmail.com">
 <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
