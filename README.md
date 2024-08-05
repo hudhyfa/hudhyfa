@@ -21,8 +21,6 @@
 <br>
 <h4 align="center"> 📚 Frameworks, Platforms and Libraries</h4>
 <p align="center">
- <img align="center" alt="Bootstrap" width="auto" src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
- <img align="center" alt="Tailwind CSS" width="auto" src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
  <img align="center" alt="React" width="auto" src="https://img.shields.io/badge/React-323330.svg?style=for-the-badge&logo=react&logoColor=06B6D4" />
  <img align="center" alt="Next js" width="auto" src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
  <img align="center" alt="redux" width="auto" src="https://img.shields.io/badge/redux-white.svg?style=for-the-badge&logo=redux&logoColor=764ABC" />
